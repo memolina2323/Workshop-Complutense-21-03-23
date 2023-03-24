@@ -7,8 +7,8 @@ Este repositorio contiene los notebooks empleados en la Workshop realizada en la
 | Start | End   | Duración | Título                                                                       | Materiales                                              |
 |-------|-------|----------|------------------------------------------------------------------------------|---------------------------------------------------------|
 | 14:00 | 14:05 | 0:05     | Introducción y Overview de Qiskit                                            |                                                         |
-| 14:05 | 14:30 | 0:25     | Primeros pasos con Qiskit y VQE                                              |       [Qiskit tutorial](Notebooks/Primeros_pasos_qiskit.ipynb)           |
-| 14:30 | 14:55 | 0:25     | Max-Cut (caso práctico)                                                      |[Max-Cut tutorial](Notebooks/maxcut.ipynb)                         |
+| 14:05 | 14:30 | 0:25     | Primeros pasos con Qiskit y VQE                                              |       [Notebook introducción a Qiskit](Notebooks/Primeros_pasos_qiskit.ipynb)           |
+| 14:30 | 14:55 | 0:25     | Max-Cut (caso práctico)                                                      |[Notebook Max-Cut](Notebooks/maxcut.ipynb)                         |
 | 14:55 | 15:00 | 0:05     | Preguntas                                                                    |                                                         |
 | 15:00 | 15:10 | 0:30     | Descanso                                                                     |                                                         |
 | 15:10 | 15:30 | 0:20     | Experiencia en IBM Quantum                                                   |                                                         |
