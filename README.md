@@ -1,6 +1,6 @@
 # Workshop-Complutense-21-03-23
 
-Este repositorio contiene los notebooks empleados en la Workshop realizada en la facultad de informática de la Universidad Complutense de Madrid el día 21 de marzo de 2023. Esta Workshop, cuya agenda figura en la tabla de abajo, fue impartida por Guillermo Mijares Vilariño y María Esperanza Molina cañizares.
+Este repositorio contiene los notebooks empleados en la Workshop realizada en la facultad de informática de la Universidad Complutense de Madrid el día 21 de marzo de 2023. Esta Workshop, cuya agenda figura en la tabla de abajo, fue impartida por Guillermo Mijares Vilariño y María Esperanza Molina Cañizares.
 
 
 **Agenda**
